@@ -6,6 +6,7 @@ workspace  {
 
         infra = softwareSystem "Entorno Virtualizado" {
             container "Virtuazación 1"
+            container "Virtuazación 5"
             container "Virtuazación 2"
             container "Virtuazación..."
 
